@@ -5,20 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6678129a-24ab-4179-8b6b-78b3ead4eda8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/public/investment-calculator-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/src/assets/investment-calculator-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/src/components/Results.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/src/components/UserInput.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/src/components/header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/src/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/src/util/investment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section5/investment-calculator/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/public/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/src/components/AuthInputs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/src/components/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/src/index-old.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../section6/react-art/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.Contrib/GeoJSON.Text.Contrib.Wkb/Conversions/WkbDecode.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.Contrib/GeoJSON.Text.Contrib.Wkb/Conversions/WkbEncode.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.Contrib/GeoJSON.Text.Contrib.Wkb/Conversions/WkbGeometryType.cs" beforeDir="false" />
@@ -86,7 +89,6 @@
       <change beforePath="$PROJECT_DIR$/../../../GuardianDataMigration/Util/TransformHelper.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../GuardianDataMigration/appsettings.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Jenkinsfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../SinchSimpleTest/Program.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../SinchSimpleTest/SinchSimpleTest.csproj" beforeDir="false" />
